@@ -1,0 +1,22 @@
+{
+    "name": "ms-starter",
+    "version": "1.0.0",
+    "description": "A Template for creating simple microservices in nodejs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kamalbabu/microservice-starter.git"
+    },
+    "author": "Kamal Babu",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kamalbabu/microservice-starter/issues"
+    },
+    "homepage": "https://github.com/kamalbabu/microservice-starter#readme",
+    "dependencies": {
+        "express": "4.16.2"
+    }
+}
